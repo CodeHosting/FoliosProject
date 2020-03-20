@@ -21,6 +21,7 @@ for (var i in localStorage) {
         ul.append(li);
         console.log("Mensaje de prueba de GIT!!!!!");
         console.log("Mensaje de prueba de GIT2!!!!!");
+        console.log("Mensaje de prueba de GIT3!!!!!");        
     }
 }
 
